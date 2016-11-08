@@ -5,7 +5,9 @@ CHANGELOG
 2.11.4.dev0
 -------------------
 
-*
+**Bug fixes**
+
+* Fix HTML entities in feedback email
 
 
 2.11.3 (2016-11-15)
